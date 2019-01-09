@@ -1,0 +1,6 @@
+fanless.txt
+Created Wed Jan  9 07:38:00 AST 2019
+by Raymond E. Marcil <ray.marcil@alaska.gov>
+
+
+Fanless
