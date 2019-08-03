@@ -30,6 +30,7 @@
 # Source                                               Target
 # --------------------------------------------------------------
 ssh://git@github.com/marcilr/fanless-chassis.git       chassis
+ssh://git@github.com/marcilr/cpu-low-watt.git          cpu-low-watt
 ssh://git@github.com/marcilr/fitlet2.git               fitlet2
 ssh://git@github.com/marcilr/hdplex.git                hdplex
 ssh://git@github.com/marcilr/fanless-the-build.git     the-build
