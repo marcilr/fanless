@@ -22,16 +22,18 @@
 # https://github.com/marcilr/git-github-syntax.git   github/syntax
 #
 # NOTE: The target value can be a relative or fully qualified path.
-# ================================================================== #
+# ==================================================================
 
-
-
-# --------------------------------------------------------------
+# ------------------------------------------------------------------
+# Fanless
+#
 # Source                                               Target
-# --------------------------------------------------------------
+# ------------------------------------------------------------------
+#ssh://htpc/data/git/hardware/fanless/cappuccinopc      cappuccinopc
 ssh://git@github.com/marcilr/fanless-chassis.git       chassis
 ssh://git@github.com/marcilr/cpu-low-watt.git          cpu-low-watt
 ssh://git@github.com/marcilr/fitlet2.git               fitlet2
+ssh://git@github.com/marcilr/global-american           global-american
 ssh://git@github.com/marcilr/hdplex.git                hdplex
 ssh://git@github.com/marcilr/fanless-the-build.git     the-build
 ssh://git@github.com/marcilr/fanless-power.git         power
