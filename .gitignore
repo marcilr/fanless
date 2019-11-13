@@ -6,9 +6,10 @@
 #
 .gitignore
 chassis/
+cpu-low-watt/
 fitlet2/
+global-american/
 hdplex/
 power/
 streacom/
 the-build/
-
